@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+table {
+    width: 100%;
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 500px;
+    height: 150px;
+
+}
+
+td,
+th {
+    border: 1px solid black;
+}
+
+img {
+    width: 70px;
+    height: 40px;
+
+}
+
+.wrapper {
+    margin: 30px 0 0 30px;
+}
+
+.block td {
+    text-align: center;
+}
